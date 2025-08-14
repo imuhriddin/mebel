@@ -1,0 +1,23 @@
+
+/* Header style boshlanishi */
+
+header {
+    border: 1px solid red;
+    padding: 15px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-icon-link {
+    display: flex;
+    gap: 30px;
+}
